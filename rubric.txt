@@ -1,0 +1,30 @@
+Examples:
+● https://basecampcodingacademy.org/student-portfolios/
+● https://cannon-narmour.github.io/Portfolio
+● https://john.terenz.io/
+● https://alucardrangel.github.io/mark_35/
+>> Rubric < <
+● Clearly presents appropriate information
+● Who are you
+● What are your skills
+● What projects should a visitor know about
+● Adheres to basic design principles
+○ White Space
+○ Alignment
+○ Contrast
+○ Scale
+○ Typography
+○ Color
+○ Visual Hierarchy
+● Responsive Design
+○ phone
+○ tablet
+○ desktop
+● Hosted on GitHub Pages
+● Your HTML and CSS should be formatted according to prettier.
+● Your landing page should be in index.html
+● All styling should be in styles.css
+● All images should be served from images/...
+● CSS rule sets should not target tag names
+● External links should open in a new tab
+To receive credit, email Briana, Tom, and Trey a link to your portfolio.
